@@ -1,6 +1,14 @@
-# TaskManagerUnlocker V1
-This .exe file will change the registry for Task Manager to enable it. 
-It may not work on school devices, but it **should work if Task Manager was disabled through changing the regristry data**
-Otherwise, It will not work.
+# TaskManagerUnlocker V2 -- 31/10/24
+## 🎃 Happy Halloween! 🎃
+## Alert: DO NOT USE PREVIOUS VERSIONS - USE THE ONE THAT HAS THE SAME VERSION NUMBER AS THE TITLE OF THIS README!
 
-**This is not copyrighted but please, give credit to me.
+This .exe file will change the registry for Task Manager to enable it. 
+It may not work on school devices.
+
+## Ways It Works:
+- Regristry check 1 - HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer for the NoTaskMgr value.
+- Regristry check 2 - HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System for the DisableTaskMgr
+- Regristry check 3 - HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System for the DisableTaskMgr value.
+
+## In the future, Group Policies will be up and running!
+## WARNING: THIS PROGRAM CAN CRASH - PLEASE CHECK TO SEE IF TASK MANAGER IS WORKING BY CLICKING ON THE TASKBAR
