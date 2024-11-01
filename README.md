@@ -1,5 +1,6 @@
-# TaskManagerUnlocker V2 -- 31/10/24
-## 🎃 Happy Halloween! 🎃
+# TaskManagerUnlocker V2.5 -- 01/11/24
+
+## NOTE: V2.0 DOES NOT WORK -- DO NOT USE IT!
 ## Alert: DO NOT USE PREVIOUS VERSIONS - USE THE ONE THAT HAS THE SAME VERSION NUMBER AS THE TITLE OF THIS README!
 
 This .exe file will change the registry for Task Manager to enable it. 
